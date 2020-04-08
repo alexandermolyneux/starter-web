@@ -1,1 +1,3 @@
+These changes not yet added to git index
+Stil so many commands Ive forgotten
 Pretty cool to be good at vim... Much more to learn and practice, but it's quite ridiculous how much more technical I am, I love it
